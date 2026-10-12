@@ -8,6 +8,9 @@ sidebar: false
 
 ![](images/WebsiteBanner.png)
 
+
+
+
 <div style="text-align: right;">
 [![AGPL-3.0][agpl3-shield]][agpl3]
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -20,150 +23,801 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 # Bioconductor
 
-## flowCore
-
-## cytolib
-
-## flowWorkspace
-
-## ncdfFlow
-
-## flowViz
-
-## FlowSOM
-
-## ggcyto
-
-## openCyto
-
-## quantiseqr
-
-## flowStats
-
-## CytoML
-
 ## CATALYST
 
-## flowAI
+![](/images/Bioconductor/CATALYST.png)
 
-## diffcyt
+-  [Vignettes Preprocessing](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CATALYST/inst/doc/preprocessing.html)
+-  [Vignettes Differential Discovery](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CATALYST/inst/doc/differential.html)
+-  [GitHub](https://github.com/HelenaLC/CATALYST)
+-  [Issues](https://github.com/HelenaLC/CATALYST/issues)
+-  [R](https://github.com/HelenaLC/CATALYST/tree/main/R)
+-  [tests](https://github.com/HelenaLC/CATALYST/tree/main/tests/testthat)
+-  [Build]()
 
-## flowDensity
+### censcyt
 
-## flowMeans
+![](/images/Bioconductor/censcyt.png)
 
-## PeacoQC
+-  [Vignettes Censored covariate](https://www.bioconductor.org/packages/3.23/bioc/vignettes/censcyt/inst/doc/censored_covariate.html)
+-  [GitHub](https://github.com/retogerber/censcyt)
+-  [Issues](https://github.com/retogerber/censcyt/issues)
+-  [R](https://github.com/retogerber/censcyt/tree/main/R)
+-  [tests](https://github.com/retogerber/censcyt/tree/main/tests/testthat)
+-  [Build]()
 
-## flowFP
 
-## flowClean
+### CompensAID
 
-## flowPeaks
+![](/images/Bioconductor/CompensAID.png)
 
-## COMPASS
+-  [Vignettes Overview](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CompensAID/inst/doc/CompensAID.html)
+-  [GitHub](https://github.com/Olsman/CompensAID)
+-  [Issues](https://github.com/Olsman/CompensAID/issues)
+-  [R](https://github.com/Olsman/CompensAID/tree/main/R)
+-  [tests](https://github.com/Olsman/CompensAID/tree/main/tests/testthat)
+-  [Build]()
 
-## SamSPECTRAL
 
-## flowVS
+### cyanoFilter
 
-## cydar
+![](/images/Bioconductor/cyanoFilter.png)
 
-## flowMerge
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/cyanoFilter/inst/doc/cyanoFilter.html)
+-  [GitHub](https://github.com/fomotis/cyanoFilter)
+-  [Issues](https://github.com/fomotis/cyanoFilter/issues)
+-  [R](https://github.com/fomotis/cyanoFilter/tree/master/R)
+-  [tests]()
+-  [Build]()
 
-## flowTrans
+### cydar
 
-## distinct
+![](/images/Bioconductor/cydar.png)
 
-## flowCut
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/cydar/inst/doc/cydar.html)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
-## flowMatch
 
-## flowBeads
+### CytoDx
 
-## flowTime
+![](/images/Bioconductor/CytoDx.png)
 
-## sccomp
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoDx/inst/doc/CytoDx_Vignette.pdf)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
-## flowCHIC
 
-## flowSpecs
+### CyTOFpower
 
-## DepecheR
+![](/images/Bioconductor/CyTOFpower.png)
 
-## treekoR
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CyTOFpower/inst/doc/CyTOFpower.html)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
-## flowBin
 
-## MetaCyto
+### CytoGLMM
 
-## immunoClust
+![](/images/Bioconductor/CytoGLMM.png)
 
-## scDataviz
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoGLMM/inst/doc/CytoGLMM.html)
+-  [GitHub](https://github.com/ChristofSeiler/CytoGLMM)
+-  [Issues](https://github.com/ChristofSeiler/CytoGLMM/issues)
+-  [R](https://github.com/ChristofSeiler/CytoGLMM/tree/devel/R)
+-  [tests](https://github.com/ChristofSeiler/CytoGLMM/tree/devel/tests/testthat)
+-  [Build]()
 
-## cytoMEM
 
-## flowPloidy
+### cytoKernel
 
-## plotGrouper
+![](/images/Bioconductor/cytoKernel.png)
 
-## CytoDx
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/cytoKernel/inst/doc/cytoKernel.html)
+-  [GitHub](https://github.com/Ghoshlab/cytoKernel)
+-  [Issues](https://github.com/Ghoshlab/cytoKernel/issues)
+-  [R](https://github.com/Ghoshlab/cytoKernel/tree/main/R)
+-  [tests](https://github.com/Ghoshlab/cytoKernel/tree/main/tests/testthat)
+-  [Build]()
 
-## Sconify
 
-## flowPlots
+### cytolib
 
-## GateFinder
+![](/images/Bioconductor/cytolib.png)
 
-## flowGate
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/cytolib/inst/doc/cytolib.html)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
-## flowGraph
 
-## infinityFlow
+### CytoMDS
 
-## cyanoFilter
+![](/images/Bioconductor/CytoMDS.png)
 
-## optimalFlow
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoMDS/inst/doc/CytoMDS.html)
+-  [GitHub](https://github.com/UCLouvain-CBIO/CytoMDS/)
+-  [Issues](https://github.com/UCLouvain-CBIO/CytoMDS/issues)
+-  [R](https://github.com/UCLouvain-CBIO/CytoMDS/tree/main/R)
+-  [tests](https://github.com/UCLouvain-CBIO/CytoMDS/tree/main/tests/testthat)
+-  [Build]()
 
-## CytoGLMM
 
-## scifer
+### cytoMEM
 
-## cytoKernel
+![](/images/Bioconductor/cytoMEM.png)
 
-## CytoPipeline
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/cytoMEM/inst/doc/Intro_to_Marker_Enrichment_Modeling_Analysis.html)
+-  [GitHub](https://github.com/cytolab/cytoMEM)
+-  [Issues](https://github.com/cytolab/cytoMEM/issues)
+-  [R]()
+-  [tests]()
+-  [Build]()
 
-## censcyt
 
-## flowCyBar
+### CytoML
 
-## reconsi
+![](/images/Bioconductor/CytoML.png)
 
-## MACSQuantifyR
+-  [Vignettes 1](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoML/inst/doc/HowToExportGatingSet.html)
+-  [Vignettes 2](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoML/inst/doc/flowjo_to_gatingset.html)
+-  [Vignettes 3](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoML/inst/doc/cytobank2GatingSet.html)
+-  [GitHub](https://github.com/RGLab/CytoML)
+-  [Issues](https://github.com/RGLab/CytoML/issues)
+-  [R](https://github.com/RGLab/CytoML/tree/devel/R)
+-  [tests](https://github.com/RGLab/CytoML/tree/devel/tests/testthat)
+-  [Build]()
 
-## CytoMDS
 
-## CytoPipelineGUI
+### CytoPipeline
 
-## MAPFX
+![](/images/Bioconductor/CytoPipeline.png)
 
-## spillR
+-  [Vignettes 1](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoPipeline/inst/doc/CytoPipeline.html)
+-  [Vignettes 2](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoPipeline/inst/doc/Demo.html)
+-  [GitHub](https://github.com/UCLouvain-CBIO/CytoPipeline/)
+-  [Issues](https://github.com/UCLouvain-CBIO/CytoPipeline/issues)
+-  [R](https://github.com/UCLouvain-CBIO/CytoPipeline/tree/main/R)
+-  [tests](https://github.com/UCLouvain-CBIO/CytoPipeline/tree/main/tests/testthat)
+-  [Build]()
 
-## tidyFlowCore
 
-## CyTOFpower
+### CytoPipelineGUI
 
-## tidytof
+![](/images/Bioconductor/CytoPipelineGUI.png)
 
-## SuperCellCyto
+-  [Vignettes 1](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoPipelineGUI/inst/doc/CytoPipelineGUI.html)
+-  [Vignettes 2](https://www.bioconductor.org/packages/3.23/bioc/vignettes/CytoPipelineGUI/inst/doc/Demo.html)
+-  [GitHub](https://github.com/UCLouvain-CBIO/CytoPipelineGUI/)
+-  [Issues](https://github.com/UCLouvain-CBIO/CytoPipelineGUI/issues)
+-  [R](https://github.com/UCLouvain-CBIO/CytoPipelineGUI/tree/main/R)
+-  [tests](https://github.com/UCLouvain-CBIO/CytoPipelineGUI/tree/main/tests/testthat)
+-  [Build]()
 
-# GitHub
 
-## autospill
+### DepecheR
 
-## autospectral
+![](/images/Bioconductor/DepecheR.png)
 
-## flowMagic
+-  [Vignettes 1](https://www.bioconductor.org/packages/3.23/bioc/vignettes/DepecheR/inst/doc/DepecheR_test.html)
+-  [Vignettes 2](https://www.bioconductor.org/packages/3.23/bioc/vignettes/DepecheR/inst/doc/GroupProbPlot_usage.html)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
+
+### diffcyt
+
+![](/images/Bioconductor/diffcyt.png)
+
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/diffcyt/inst/doc/diffcyt_workflow.html)
+-  [GitHub](https://github.com/lmweber/diffcyt)
+-  [Issues](https://github.com/lmweber/diffcyt/issues)
+-  [R](https://github.com/lmweber/diffcyt/tree/devel/R)
+-  [tests](https://github.com/lmweber/diffcyt/tree/devel/tests/testthat)
+-  [Build]()
+
+
+### distinct
+
+![](/images/Bioconductor/distinct.png)
+
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/distinct/inst/doc/distinct.html)
+-  [GitHub](https://github.com/SimoneTiberi/distinct)
+-  [Issues](https://github.com/SimoneTiberi/distinct/issues)
+-  [R](https://github.com/SimoneTiberi/distinct/tree/master/R)
+-  [tests](https://github.com/SimoneTiberi/distinct/tree/master/tests/testthat)
+-  [Build]()
+
+
+### flowAI
+
+![](/images/Bioconductor/flowAI.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowBeads
+
+![](/images/Bioconductor/flowBeads.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowBin
+
+![](/images/Bioconductor/flowBin.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowCHIC
+
+![](/images/Bioconductor/flowCHIC.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowClean
+ 
+![](/images/Bioconductor/flowClean.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowClust
+
+![](/images/Bioconductor/flowClust.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowCore
+
+![](/images/Bioconductor/flowCore.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowCut
+
+![](/images/Bioconductor/flowCut.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowCyBar
+
+![](/images/Bioconductor/flowCyBar.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowDensity
+
+![](/images/Bioconductor/flowDensity.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowFP
+
+![](/images/Bioconductor/flowFP.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowGate
+
+![](/images/Bioconductor/flowGate.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowGraph
+
+![](/images/Bioconductor/flowGraph.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowMatch
+ 
+![](/images/Bioconductor/flowMatch.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowMeans
+
+![](/images/Bioconductor/flowMeans.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowMerge
+
+![](/images/Bioconductor/flowMerge.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowPeaks
+
+![](/images/Bioconductor/flowPeaks.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowPloidy
+
+![](/images/Bioconductor/flowPloidy.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowPlots
+
+![](/images/Bioconductor/flowPlots.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### FlowSOM
+
+![](/images/Bioconductor/FlowSOM.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowSpecs
+ 
+![](/images/Bioconductor/flowSpecs.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowStats
+
+![](/images/Bioconductor/flowStats.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowTime
+
+![](/images/Bioconductor/flowTime.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowTrans
+
+![](/images/Bioconductor/flowTrans.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowViz
+
+![](/images/Bioconductor/flowViz.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowVS
+
+![](/images/Bioconductor/flowVS.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### flowWorkspace
+
+![](/images/Bioconductor/flowWorkspace.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### GateFinder
+
+![](/images/Bioconductor/GateFinder.png)
+
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/GateFinder/inst/doc/GateFinder.pdf)
+-  [GitHub]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### ggcyto
+
+![](/images/Bioconductor/ggcyto.png)
+
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/ggcyto/inst/doc/autoplot.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/ggcyto/inst/doc/ggcyto.flowSet.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/ggcyto/inst/doc/ggcyto.GatingSet.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/ggcyto/inst/doc/Top_features_of_ggcyto.html)
+-  [GitHub](https://github.com/RGLab/ggcyto)
+-  [Issues](https://github.com/RGLab/ggcyto/issues)
+-  [R](https://github.com/RGLab/ggcyto/tree/devel/R)
+-  [tests](https://github.com/RGLab/ggcyto/tree/devel/tests/testthat)
+-  [Build]()
+
+
+### immunoClust
+
+![](/images/Bioconductor/immunoClust.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### infinityFlow
+
+![](/images/Bioconductor/infinityFlow.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### MACSQuantifyR
+
+![](/images/Bioconductor/MACSQuantifyR.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### MAPFX
+
+![](/images/Bioconductor/MAPFX.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### MDSvis
+
+![](/images/Bioconductor/MDSvis.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### MetaCyto
+
+![](/images/Bioconductor/MetaCyto.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### ncdfFlow
+
+![](/images/Bioconductor/ncdfFlow.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### openCyto
+
+![](/images/Bioconductor/openCyto.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### optimalFlow
+
+![](/images/Bioconductor/optimalFlow.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### PeacoQC
+
+![](/images/Bioconductor/PeacoQC.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### plotGrouper
+
+![](/images/Bioconductor/plotGrouper.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### quantiseqr
+
+![](/images/Bioconductor/quantiseqr.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### reconsi
+
+![](/images/Bioconductor/reconsi.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### sccomp
+
+![](/images/Bioconductor/sccomp.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### scDataviz
+
+![](/images/Bioconductor/scDataviz.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### scifer
+
+![](/images/Bioconductor/scifer.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### Sconify
+
+![](/images/Bioconductor/Sconify.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### spillR
+
+![](/images/Bioconductor/spillR.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### staRgate
+
+![](/images/Bioconductor/staRgate.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### SuperCellCyto
+
+![](/images/Bioconductor/SuperCellCyto.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### tidyFlowCore
+
+![](/images/Bioconductor/tidyFlowCore.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### tidytof
+
+![](/images/Bioconductor/tidytof.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
+
+
+### treekoR
+
+![](/images/Bioconductor/treekoR.png)
+
+-  [Vignettes]()
+-  [Issues]()
+-  [R]()
+-  [tests]()
+-  [Build]()
 
 <div style="text-align: right;">
 [![AGPL-3.0][agpl3-image]][agpl3]
