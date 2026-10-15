@@ -247,7 +247,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowAI.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowAI/inst/doc/flowAI.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -258,7 +258,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowBeads.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowBeads/inst/doc/HowTo-flowBeads.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -269,7 +269,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowBin.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowBin/inst/doc/flowBin.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -280,7 +280,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowCHIC.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowCHIC/inst/doc/flowCHICmanual.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -291,7 +291,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
  
 ![](/images/Bioconductor/flowClean.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowClean/inst/doc/flowClean.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -302,7 +302,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowClust.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowClust/inst/doc/flowClust.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -313,7 +313,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowCore.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowCore/inst/doc/HowTo-flowCore.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -324,7 +324,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowCut.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowCut/inst/doc/flowCut.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -335,7 +335,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowCyBar.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowCyBar/inst/doc/flowCyBar-manual.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -346,7 +346,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowDensity.png)
 
--  [Vignettes]()
+-  [Vignettes]() None
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -357,7 +357,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowFP.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowFP/inst/doc/flowFP_HowTo.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -368,7 +368,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowGate.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowGate/inst/doc/flowGate.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -379,10 +379,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowGraph.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowGraph/inst/doc/flowGraph.html)
+-  [GitHub](https://github.com/aya49/flowGraph)
+-  [Issues](https://github.com/aya49/flowGraph/issues)
+-  [R](https://github.com/aya49/flowGraph/tree/master/R)
+-  [tests](https://github.com/aya49/flowGraph/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -390,7 +391,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
  
 ![](/images/Bioconductor/flowMatch.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowMatch/inst/doc/flowMatch.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -401,7 +402,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowMeans.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowMeans/inst/doc/flowMeans.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -412,7 +413,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowMerge.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowMerge/inst/doc/flowmerge.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -423,7 +424,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowPeaks.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowPeaks/inst/doc/flowPeaks-guide.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -434,10 +435,12 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowPloidy.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowPloidy/inst/doc/flowPloidy-gettingStarted.pdf)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowPloidy/inst/doc/histogram-tour.pdf)
+-  [GitHub](https://github.com/plantarum/flowPloidy)
+-  [Issues](https://github.com/plantarum/flowPloidy/issues)
+-  [R](https://github.com/plantarum/flowPloidy/tree/master/R)
+-  [tests](https://github.com/plantarum/flowPloidy/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -445,7 +448,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowPlots.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowPlots/inst/doc/flowPlots.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -456,7 +459,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/FlowSOM.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/FlowSOM/inst/doc/FlowSOM.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -467,10 +470,10 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
  
 ![](/images/Bioconductor/flowSpecs.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowSpecs/inst/doc/flowSpecs_vinjette.html)
+-  [Issues](https://github.com/jtheorell/flowSpecs/issues)
+-  [R](https://github.com/jtheorell/flowSpecs/tree/master/R)
+-  [tests](https://github.com/jtheorell/flowSpecs/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -478,10 +481,10 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowStats.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowStats/inst/doc/GettingStartedWithFlowStats.pdf)
+-  [Issues](https://github.com/RGLab/flowStats/issues)
+-  [R](https://github.com/RGLab/flowStats/tree/devel/R)
+-  [tests](https://github.com/RGLab/flowStats/tree/devel/tests/testthat)
 -  [Build]()
 
 
@@ -489,7 +492,9 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowTime.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowTime/inst/doc/gating-vignette.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowTime/inst/doc/steady-state-vignette.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowTime/inst/doc/time-course-vignette.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -500,7 +505,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowTrans.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowTrans/inst/doc/flowTrans.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -511,7 +516,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowViz.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowViz/inst/doc/filters.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -522,7 +527,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowVS.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowVS/inst/doc/flowVS.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -533,7 +538,8 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/flowWorkspace.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowWorkspace/inst/doc/flowWorkspace-Introduction.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/flowWorkspace/inst/doc/HowToMergeGatingSet.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -571,7 +577,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/immunoClust.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/immunoClust/inst/doc/immunoClust.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -582,7 +588,8 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/infinityFlow.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/infinityFlow/inst/doc/basic_usage.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/infinityFlow/inst/doc/training_non_default_regression_models.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -593,7 +600,9 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/MACSQuantifyR.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MACSQuantifyR/inst/doc/MACSQuantifyR_combo.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MACSQuantifyR/inst/doc/MACSQuantifyR_pipeline.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MACSQuantifyR/inst/doc/MACSQuantifyR.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -604,10 +613,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/MAPFX.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MAPFX/inst/doc/MAPFX_Vignette.html)
+-  [GitHub](https://github.com/HsiaoChiLiao/MAPFX)
+-  [Issues](https://github.com/HsiaoChiLiao/MAPFX/issues)
+-  [R](https://github.com/HsiaoChiLiao/MAPFX/tree/main/R)
+-  [tests](https://github.com/HsiaoChiLiao/MAPFX/tree/main/tests/testthat)
 -  [Build]()
 
 
@@ -615,10 +625,12 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/MDSvis.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MDSvis/inst/doc/MDSvis_Input_From_Distance.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MDSvis/inst/doc/MDSvis.html)
+-  [GitHub](https://github.com/UCLouvain-CBIO/MDSvis/)
+-  [Issues](https://github.com/UCLouvain-CBIO/MDSvis/issues)
+-  [R](https://github.com/UCLouvain-CBIO/MDSvis/tree/main/R)
+-  [tests](https://github.com/UCLouvain-CBIO/MDSvis/tree/main/tests/testthat)
 -  [Build]()
 
 
@@ -626,7 +638,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/MetaCyto.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/MetaCyto/inst/doc/MetaCyto_Vignette.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -637,7 +649,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/ncdfFlow.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/ncdfFlow/inst/doc/ncdfFlow.pdf)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -648,7 +660,9 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/openCyto.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/openCyto/inst/doc/HowToAutoGating.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/openCyto/inst/doc/HowToWriteCSVTemplate.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/openCyto/inst/doc/openCytoVignette.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -659,7 +673,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/optimalFlow.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/html/optimalFlow.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -670,9 +684,10 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/PeacoQC.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/PeacoQC/inst/doc/PeacoQC_Vignette.pdf)
+-  [GitHub](https://github.com/saeyslab/PeacoQC)
+-  [Issues](https://github.com/saeyslab/PeacoQC/issues)
+-  [R](https://github.com/saeyslab/PeacoQC/tree/master/R)
 -  [tests]()
 -  [Build]()
 
@@ -681,10 +696,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/plotGrouper.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/plotGrouper/inst/doc/plotGrouper-vignette.html)
+-  [GitHub](https://github.com/jdgagnon/plotGrouper)
+-  [Issues](https://github.com/jdgagnon/plotGrouper/issues)
+-  [R](https://github.com/jdgagnon/plotGrouper/tree/master/R)
+-  [tests](https://github.com/jdgagnon/plotGrouper/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -692,7 +708,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/quantiseqr.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/quantiseqr/inst/doc/using_quantiseqr.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -703,10 +719,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/reconsi.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/reconsi/inst/doc/reconsiVignette.html)
+-  [GitHub](https://github.com/CenterForStatistics-UGent/reconsi)
+-  [Issues](https://github.com/CenterForStatistics-UGent/reconsi/issues)
+-  [R](https://github.com/CenterForStatistics-UGent/reconsi/tree/master/R)
+-  [tests](https://github.com/CenterForStatistics-UGent/reconsi/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -714,10 +731,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/sccomp.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/sccomp/inst/doc/introduction.html)
+-  [GitHub](https://github.com/MangiolaLaboratory/sccomp)
+-  [Issues](https://github.com/MangiolaLaboratory/sccomp/issues)
+-  [R](https://github.com/MangiolaLaboratory/sccomp/tree/master/R)
+-  [tests](https://github.com/MangiolaLaboratory/sccomp/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -725,10 +743,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/scDataviz.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/scDataviz/inst/doc/scDataviz.html)
+-  [GitHub](https://github.com/kevinblighe/scDataviz)
+-  [Issues](https://github.com/kevinblighe/scDataviz/issues)
+-  [R](https://github.com/kevinblighe/scDataviz/tree/master/R)
+-  [tests](https://github.com/kevinblighe/scDataviz/tree/master/tests)
 -  [Build]()
 
 
@@ -736,10 +755,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/scifer.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/scifer/inst/doc/scifer_walkthrough.html)
+-  [GitHub](https://github.com/rodrigarc/scifer)
+-  [Issues](https://github.com/rodrigarc/scifer/issues)
+-  [R](https://github.com/rodrigarc/scifer/tree/master/R)
+-  [tests](https://github.com/rodrigarc/scifer/tree/master/tests/testthat)
 -  [Build]()
 
 
@@ -747,7 +767,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/Sconify.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/Sconify/inst/doc/DataQuality.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/Sconify/inst/doc/FindingIdealK.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/Sconify/inst/doc/Step1.PreProcessing.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/Sconify/inst/doc/Step2.TheSconeWorkflow.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/Sconify/inst/doc/Step3.PostProcessing.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -758,7 +782,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/spillR.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/spillR/inst/doc/spillR-vignette.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
@@ -769,10 +793,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/staRgate.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/staRgate/inst/doc/vignette_run_pipeline.html)
+-  [GitHub](https://github.com/leejasme/staRgate)
+-  [Issues](https://github.com/leejasme/staRgate/issues)
+-  [R](https://github.com/leejasme/staRgate/tree/main/R)
+-  [tests](https://github.com/leejasme/staRgate/tree/main/tests/testthat)
 -  [Build]()
 
 
@@ -780,10 +805,15 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/SuperCellCyto.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/SuperCellCyto/inst/doc/how_to_prepare_data.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/SuperCellCyto/inst/doc/interoperability_with_sce.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/SuperCellCyto/inst/doc/interoperability_with_seurat.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/SuperCellCyto/inst/doc/SuperCellCyto.html)
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/SuperCellCyto/inst/doc/using_supercellcyto_for_stratified_summarising.html)
+-  [GitHub](https://github.com/phipsonlab/SuperCellCyto/)
+-  [Issues](https://github.com/phipsonlab/SuperCellCyto/issues)
+-  [R](https://github.com/phipsonlab/SuperCellCyto/tree/main/R)
+-  [tests](https://github.com/phipsonlab/SuperCellCyto/tree/main/tests/testthat)
 -  [Build]()
 
 
@@ -791,10 +821,11 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/tidyFlowCore.png)
 
--  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/tidyFlowCore/inst/doc/tidyFlowCore.html)
+-  [GitHub](https://github.com/keyes-timothy/tidyFlowCore)
+-  [Issues](https://github.com/keyes-timothy/tidyFlowCore/issues)
+-  [R](https://github.com/keyes-timothy/tidyFlowCore/tree/main/R)
+-  [tests](https://github.com/keyes-timothy/tidyFlowCore/tree/main/tests/testthat)
 -  [Build]()
 
 
@@ -803,9 +834,10 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 ![](/images/Bioconductor/tidytof.png)
 
 -  [Vignettes]()
--  [Issues]()
--  [R]()
--  [tests]()
+-  [GitHub](https://github.com/keyes-timothy/tidytof)
+-  [Issues](https://github.com/keyes-timothy/tidytof/issues)
+-  [R](https://github.com/keyes-timothy/tidytof/tree/main/R)
+-  [tests](https://github.com/keyes-timothy/tidytof/tree/main/tests)
 -  [Build]()
 
 
@@ -813,7 +845,7 @@ The purpose of this page is to host the Vignette writing challenge entries. Ther
 
 ![](/images/Bioconductor/treekoR.png)
 
--  [Vignettes]()
+-  [Vignettes](https://www.bioconductor.org/packages/3.23/bioc/vignettes/treekoR/inst/doc/vignette.html)
 -  [Issues]()
 -  [R]()
 -  [tests]()
